@@ -23,8 +23,8 @@ To evaluate fighters' performance using two judging standards—Lenient and Stri
 ## PROGRAM:
  ```
 Program to implement a Interface using Java
-Developed by: Preethi J 
-RegisterNumber: 212223220080  
+Developed by: Farhana H
+RegisterNumber: 212223230057  
 ```
 
 ## SOURCE CODE:
@@ -89,5 +89,6 @@ public class Main {
 
 ## RESULT:
 Thus, the Java program demonstrating Interface implementation using different judging criteria was executed successfully.
+
 
 
